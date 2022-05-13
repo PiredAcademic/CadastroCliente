@@ -1,0 +1,22 @@
+{
+  "name": "cadastrocliente",
+  "version": "1.0.0",
+  "description": "Projeto da aula de PW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiredAcademic/CadastroCliente.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiredAcademic/CadastroCliente/issues"
+  },
+  "homepage": "https://github.com/PiredAcademic/CadastroCliente#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
